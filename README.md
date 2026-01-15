@@ -4,7 +4,7 @@ I'm a software engineering student passionate about building scalable web applic
 I've contributed to projects ranging from emergency response assistants to automated expense-sharing platforms, and I enjoy pushing the limits of what software can do.
 <p align="middle">
 <a href="https://www.github.com/krisBani">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisBani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats-me8xsst5y-kris-banis-projects.vercel.app?user=krisBani&theme=buefy-dark)](https://git.io/streak-stats)
 </a>
 </p>
 
