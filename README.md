@@ -3,12 +3,8 @@
 I'm a software engineering student passionate about building scalable web applications, AI-powered tools, and solving real-world problems with code.  
 I've contributed to projects ranging from emergency response assistants to automated expense-sharing platforms, and I enjoy pushing the limits of what software can do.
 <p align="middle">
-<a href="https://www.github.com/krisBani">
-[![GitHub Streak](https://github-readme-streak-stats-me8xsst5y-kris-banis-projects.vercel.app?user=krisBani&theme=buefy-dark)](https://git.io/streak-stats)
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beryl-phi.vercel.app?user=krisBani&theme=shadow-purple" alt="GitHub Streak" /></a>
 </p>
-
-
 
 ###  Skills
 
